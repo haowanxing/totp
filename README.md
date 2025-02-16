@@ -1,4 +1,8 @@
-# totp.sh
-TOTP via bash work on Linux(OpenWRT)
+# totp
+TOTP Scripts
 
-> Usage: ./totp.sh <base32_encoded_key> <number>
+```bash
+Usage: ./totp.sh <base32_encoded_key>
+
+Usage: lua totp.lua <base32_secret_key>
+````
